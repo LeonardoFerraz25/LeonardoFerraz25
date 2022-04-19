@@ -4,7 +4,6 @@ I consider myself a very curious person, always in search of knowledge, a lover 
 Fascinated by problem solving, and generating value for other people's lives through programming!
 
 
-![Leonardo GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonardoFerraz25&show_icons=true&theme=midnight-purple)
 
 ## Technologies I use daily:
 
