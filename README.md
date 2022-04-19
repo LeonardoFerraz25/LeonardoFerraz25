@@ -1,4 +1,4 @@
-# Hello, I am Leonardo Ferraz 👋
+# Hello, I'm Leonardo Ferraz 👋
 I consider myself a very curious person, always in search of knowledge, a lover of technology!
 
 Fascinated by problem solving, and generating value for other people's lives through programming!
