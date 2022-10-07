@@ -2,7 +2,7 @@
 
 Olá, sou Leonardo Ferraz e atualmente me encontro cada dia mais apaixonado por desenvolvimento de software e o que busco hoje dentro dessa área, é sempre me capacitar e aprender mais sobre o mundo do desenvolvimento web  :heart:.
 
-Se me perguntarem o motivo porque escoli essa area, provavelmente eu direi que a programação me faz estressar e virar as noites de uma maneira diferente :sweat_smile:. De fato, estes são alguns elementos que acompanham muitos desenvolvedores, mas o real motivo para eu entrar nesta área se deve ao fato de gostar de programar, de pensar, discutir planos, resolver problemas.
+Se me perguntarem o motivo porque escoli essa area, provavelmente eu direi que a programação me faz virar as noites de uma maneira diferente :sweat_smile:. De fato, estes são alguns elementos que acompanham muitos desenvolvedores, mas o real motivo para eu entrar nesta área se deve ao fato de gostar de programar, de pensar, discutir planos, resolver problemas.
 
 Se esta pesando se deve ou não me chamar para bater um papo, não pense, só me chame, estou aqui para ensinar, aprender, trocar experiências, jogar um game e disponível para qualquer Happy Hour! :tada:
 
