@@ -12,7 +12,7 @@ Se esta pesando se deve ou não me chamar para bater um papo, não pense, só me
 
 * ⚙️ Atualmente meu foco é no desenvolvimento web, porem sou fasciado por inteligencia artifial, Machine Learning, Redes Neurais, Data science.
 
-* 🏃🏻 Uma coisa que eu adoro fazer, principalmente nos momentos que estou com tempo livre é correr, é algo que me deixa bem leve e tranquilo, oxigena o cerebro melhorou a memória dependente do hipocampo e a função do córtex pré-frontal ajudando tomar as melhores decições (ps: Nem sempre kkkk)
+* 🏃🏻 Uma coisa que eu adoro fazer, principalmente nos momentos que estou com tempo livre é correr, é algo que me deixa bem leve e tranquilo, oxigena o cerebro melhora a memória dependente do hipocampo e a função do córtex pré-frontal ajudando tomar as melhores decições (ps: Nem sempre kkkk)
 
 * :video_game: Adoro jogos, se falar qual eu mais gosto eu não te direi algum específico, mas o jogos de tiro (PC e console) e estrátegia (tabuleiro) são os que mais me atraem.
 
