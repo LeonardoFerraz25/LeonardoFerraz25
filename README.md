@@ -16,7 +16,7 @@ Se esta pesando se deve ou não me chamar para bater um papo, não pense, só me
 
 * :video_game: Adoro jogos, se falar qual eu mais gosto eu não te direi algum específico, mas o jogos de tiro (PC e console) e estrátegia (tabuleiro) são os que mais me atraem.
 
-* 👨🏻‍💻 Atualmente eu vivo codando, estou muito focado em aprender cada vez mais a respeito do desenvolvimento web , estou aprendendo bastante sobre o React e utilizando bastante o Node. Futuramente focarei mais em aprender sobre arquitetura, estou sempre em busca de entender mais os conceitos e absorver novos.
+* 👨🏻‍💻 Atualmente eu vivo codando, estou muito focado em aprender cada vez mais a respeito do desenvolvimento web , estou utilizando bastante o Node e focado em aprender sobre arquitetura, estou sempre em busca de entender mais os conceitos e absorver novos.
 
 * :desktop_computer: Quando se trata de Front-end eu curto utilizar o React, gosto de pensar em como fazer a lógica, reutilizar componentes e manter o código organizado. Pesquiso e aplico elementos novos dentro desta biblioteca, tais como Hooks, NestJS, Redux, Context API ...  pois uma coisa que sempre dizem é "Conhecimento nunca é demais". 
 
